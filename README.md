@@ -20,7 +20,7 @@ Usage of InstaShell for attacking targets without prior mutual consent is illega
 ### Usage:
 ```
 git clone https://github.com/cyberkallan/instashell-bruitforce
-cd instashell
+cd instashell-bruitforce
 chmod +x instashell.sh
 service tor start
 sudo ./instashell.sh
